@@ -20,5 +20,5 @@ knowledge that can help us predict the patients with heart disease It is impleme
 the.pynb format.
 
 
-# DataSet Link:https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+# Data-set Link:https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
